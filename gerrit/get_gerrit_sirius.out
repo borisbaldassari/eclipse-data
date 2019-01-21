@@ -1,0 +1,71 @@
+# Gerrit instance test run on Sun Dec 10 22:06:42 2017.
+
+  Using [https://git.eclipse.org/r/].
+
+  Testing gerrit > changes.
+  Using https://git.eclipse.org/r/changes/?q=+project:sirius/org.eclipse.sirius.
+  => Found 4265.
+  Attributes: 
+$VAR1 = 'id';
+$VAR2 = 'project';
+$VAR3 = 'submit_type';
+$VAR4 = '_number';
+$VAR5 = 'owner';
+$VAR6 = 'created';
+$VAR7 = 'branch';
+$VAR8 = 'submittable';
+$VAR9 = 'mergeable';
+$VAR10 = 'status';
+$VAR11 = 'deletions';
+$VAR12 = 'updated';
+$VAR13 = 'insertions';
+$VAR14 = 'hashtags';
+$VAR15 = 'change_id';
+$VAR16 = 'subject';
+
+# List of changes (showing only 10 items).
+  - MERGED sirius/org.eclipse.sirius [423051] Move StackEx into sirius.ext.base.collect
+  - MERGED sirius/org.eclipse.sirius [423051] Move AllContents and Contents into sirius.ext.emf
+  - MERGED sirius/org.eclipse.sirius [423051] Introduce sirius.ext.emf and move a few basic classes into it
+  - MERGED sirius/org.eclipse.sirius [423051] Move LRUCache into sirius.ext.base.cache
+  - MERGED sirius/org.eclipse.sirius [423051] Rename package oes.ext.base.collections into oes.ext.base.collect
+  - MERGED sirius/org.eclipse.sirius [423051] Move the generic relation and dependency tracking code into ext.base
+  - MERGED sirius/org.eclipse.sirius [cleanup] Remove unused internal classes
+  - MERGED sirius/org.eclipse.sirius [423051] Introduce sirius.ext.base and move a few basic classes into it
+  - MERGED sirius/org.eclipse.sirius [cleanup] Remove useless StringCouple class
+  - ABANDONED sirius/org.eclipse.sirius [423051] Update release notes
+  Using https://git.eclipse.org/r/changes/?q=status:open+project:sirius/org.eclipse.sirius.
+  => Found 4493.
+  Attributes: 
+$VAR1 = 'id';
+$VAR2 = 'project';
+$VAR3 = 'submit_type';
+$VAR4 = '_number';
+$VAR5 = 'owner';
+$VAR6 = 'created';
+$VAR7 = 'branch';
+$VAR8 = 'submittable';
+$VAR9 = 'mergeable';
+$VAR10 = 'status';
+$VAR11 = 'deletions';
+$VAR12 = 'updated';
+$VAR13 = 'insertions';
+$VAR14 = 'hashtags';
+$VAR15 = 'change_id';
+$VAR16 = 'subject';
+
+# List of changes (showing only 10 items).
+  - NEW sirius/org.eclipse.sirius DRAFT [466328] Refresh SubDiagramDecorator only for concerned EditPart
+  - NEW sirius/org.eclipse.sirius [DRAFT 463765] Allow hide/show a label on nodes with label into it
+  - NEW sirius/org.eclipse.sirius [DRAFT 456410] Hide most uses of ECrossReferenceAdapter behind new InverseReferenceFinder interface
+  - NEW sirius/org.eclipse.sirius [DRAFT] manage unexpected resource in addSemanticResource
+  - NEW sirius/org.eclipse.sirius DRAFT [464162] Have Quickoutline for diagram editor use generic API
+  - NEW sirius/org.eclipse.sirius [DRAFT] [test] Manage Sirius suites with annotation
+  - NEW sirius/org.eclipse.sirius [DRAFT 463600] Hide disabled resize handles.
+  - NEW sirius/org.eclipse.sirius [DRAFT][461575] Edges with fixed anchors
+  - NEW sirius/org.eclipse.sirius [DRAFT] Add a Metrics button in the Sirius Debugging View.
+  - NEW sirius/org.eclipse.sirius DRAFT Extract reload behavior 
+
+# Testing gerrit > projects.
+  Using https://git.eclipse.org/r/projects/.
+  => Found 1052 items.
