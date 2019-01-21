@@ -1,0 +1,6 @@
+attribute,value
+nodeName,
+nodeDescription,"the master Jenkins node"
+mode,NORMAL
+slaveAgentPort,-1
+numExecutors,2
